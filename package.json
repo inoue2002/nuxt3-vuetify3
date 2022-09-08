@@ -7,7 +7,7 @@
     "preview": "nuxt preview"
   },
   "devDependencies": {
-    "sass": "^1.53.0"
+    "sass": "^1.54.9"
   },
   "dependencies": {
     "@nuxt/vite-builder": "^3.0.0-rc.3",
