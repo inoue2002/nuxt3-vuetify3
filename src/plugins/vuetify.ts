@@ -10,9 +10,6 @@ export default defineNuxtPlugin((nuxtApp) => {
     theme: {
       defaultTheme: 'dark',
     },
-    locale: {
-      defaultLocale: 'ja'
-    }
   })
   nuxtApp.vueApp.use(vuetify)
 })
