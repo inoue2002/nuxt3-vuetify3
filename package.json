@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "@nuxt/vite-builder": "^3.0.0-rc.11",
-    "vuetify": "3.0.0-beta.14",
+    "vuetify": "3.0.0-beta.15",
     "nuxt": "3.0.0-rc.12"
   }
 }
